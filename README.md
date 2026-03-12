@@ -32,7 +32,7 @@ The code imports commands from the python libraries “math”, “time”, “n
 
 Example Code Output
 
-![][image1]
+![][image1] 
 
 ![][image2]
 
